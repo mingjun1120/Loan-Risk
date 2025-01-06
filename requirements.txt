@@ -1,0 +1,12 @@
+python-dotenv
+plotly==5.24.1
+matplotlib==3.10.0
+seaborn==0.13.2
+shap==0.46.0
+sweetviz==2.3.1
+scikit-learn==1.6.0
+lightgbm==4.5.0
+ipykernel==6.29.5
+ipywidgets==8.1.5
+category_encoders==2.6.4
+nbformat==5.10.4
